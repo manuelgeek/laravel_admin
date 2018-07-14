@@ -9,3 +9,4 @@
 Look at this GIST for steps
 
 https://gist.github.com/manuelgeek/23a07b9c725bb6f6c589b7fd3644a634
+on GTT https://geekstalkthursday.co.ke/blog/laravel-admin-using-multiple-guards-071420182344
